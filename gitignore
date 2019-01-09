@@ -1,2 +1,2 @@
-###avoid tracking .log files.
-*.log
+#do not track the files type 
+kk.txt
