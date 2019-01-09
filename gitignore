@@ -1,0 +1,2 @@
+###avoid tracking .log files.
+*.log
